@@ -1,5 +1,5 @@
 /*
-› Create By @RIY
+› Create By @Ryuu-Shin
 › Base Ori @DikaArdnt
 › Kalau mau ubah/edit owner di settings.js
 › Kalau mau tambahin fitur di index.js
@@ -958,6 +958,7 @@ exports.thanksto = () => {
   *≻* FatihArridho
   *≻* Yoga
   *≻* Riy
+  *>* Jayus
   *≻* Deff
   *≻* Sanzy
   *≻* Nekel
